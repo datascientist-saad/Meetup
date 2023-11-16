@@ -15,7 +15,7 @@ export const HowTo = () => {
       <Container>
         <br />
         <Typography variant="h5" gutterBottom>
-          <i>How does </i><span id='brand'>Thango</span> <i>work?</i>
+          <i>How does </i><span id='brand'>Meetup</span> <i>work?</i>
         </Typography>
 
         <div id='instructionContainer'>

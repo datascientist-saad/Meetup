@@ -6,10 +6,10 @@ export const TOS = () => {
     <>
       <div id='TOS'>
         <Typography variant="h4" gutterBottom>
-            Let's Thango Terms of Service and User License
+            Meetup Terms of Service and User License
         </Typography>
         <Typography variant="body1" gutterBottom>
-            <p>This Let's Thango Terms of Service and User License ("TOS" or this “Agreement”) governs any access to and use of the applications, services and websites (collectively “Company Services”) offered or made available by Let's Thango ("Company" or “we/us”) at <a href='https://letsthango.web.app'>https://letsthango.web.app</a>, or through corresponding sites on social media outlets. This TOS is subject to modification from time to time as described below and You can review the most current version at any time at: <a href='https://letsthango.web.app/tos'>https://letsthango.web.app/tos</a>.</p>
+            <p>This Meetup Terms of Service and User License ("TOS" or this “Agreement”) governs any access to and use of the applications, services and websites (collectively “Company Services”) offered or made available by Meetup ("Company" or “we/us”) at <a href='https://meetup-with-you.web.app/'>https://meetup-with-you.web.app/</a>, or through corresponding sites on social media outlets. This TOS is subject to modification from time to time as described below and You can review the most current version at any time at: <a href='https://meetup-with-you.web.app/tos'>https://meetup-with-you.web.app/tos</a>.</p>
             <p>By accessing and/or using the Site or any Company Services, you (“You”) accept and agree to be bound by, and become a party to, the terms and provision of this TOS. If You do not agree to the terms and conditions of this Agreement or if You are not authorized to enter into or be bound by this Agreement, then do not access or use the Company Services or Site. This TOS is a legal agreement between You and Company and applies to You whether You are a user of the Site and/or Company Services, a visitor just browsing the Site, or any other individual or entity accessing or using the Company Services and/or Site (collectively, "Users"). All access to and use of the Company Services and the Site by You, including any content, information, products or services therein, is subject to the terms and conditions of this Agreement and conditioned upon You becoming a party hereto.</p>
         </Typography>
 
@@ -213,7 +213,7 @@ export const TOS = () => {
             YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
           </p>
           <p>
-            YOUR USE OF THE COMPANY SERVICE , SITE, COMPANY MATERIALS AND USER CONTENT IS AT YOUR SOLE RISK AND COMPANY SHALL NOT BE LIABLE FOR ANY INABILITY TO USE, OR ANY DELAYS, ERRORS OR OMISSIONS WITH RESPECT TO THE COMPANY SERVICES OR SITE. THE COMPANY SERVICES , SITE, COMPANY MATERIALS AND USER CONTENT AND ALL MATERIALS, INFORMATION, PRODUCTS AND SERVICES INCLUDED THEREIN, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. COMPANY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE COMPANY SERVICES (INCLUDING THE LET'S THANGO WEBSITE), SITE, COMPANY MATERIALS AND USER CONTENT, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+            YOUR USE OF THE COMPANY SERVICE , SITE, COMPANY MATERIALS AND USER CONTENT IS AT YOUR SOLE RISK AND COMPANY SHALL NOT BE LIABLE FOR ANY INABILITY TO USE, OR ANY DELAYS, ERRORS OR OMISSIONS WITH RESPECT TO THE COMPANY SERVICES OR SITE. THE COMPANY SERVICES , SITE, COMPANY MATERIALS AND USER CONTENT AND ALL MATERIALS, INFORMATION, PRODUCTS AND SERVICES INCLUDED THEREIN, ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. COMPANY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE COMPANY SERVICES (INCLUDING THE Meetup WEBSITE), SITE, COMPANY MATERIALS AND USER CONTENT, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
           </p>
           <p>
             COMPANY MAKES NO WARRANTY THAT (i) THE SITE OR COMPANY SERVICES WILL MEET YOUR REQUIREMENTS, (ii) THE SITE AND COMPANY SERVICES WILL BE UNINTERRUPTED, AVAILABLE FOR USE AT ANY GIVEN TIME, TIMELY, SECURE, OR ERROR-FREE, (iii) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SITE OR COMPANY SERVICES WILL BE ACCURATE, RELIABLE OR OTHERWISE MEET YOUR EXPECTATIONS, AND (V) ANY ERRORS IN ANY SOFTWARE AVAILABLE THROUGH THE SITE OR COMPANY SERVICES WILL BE CORRECTED.
@@ -225,7 +225,7 @@ export const TOS = () => {
             C. Limitation of Liability.
           </Typography>
           <p>
-            YOU EXPRESSLY UNDERSTAND AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COMPANY, AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS AND LICENSORS, SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SITE, COMPANY SERVICES (INCLUDING LET'S THANGO APPLICATIONS), COMPANY MATERIALS, USER CONTENT, INFORMATION AND RESULTS AND OTHER CONTENT AND INFORMATION AVAILABLE THROUGH THE SITE OR COMPANY SERVICES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). IN NO EVENT WILL COMPANY'S (OR ITS AFFILIATES’, OFFICERS’, DIRECTORS’, EMPLOYEES’, AGENTS’ AND LICENSORS’) CUMULATIVE LIABILITY TO YOU EXCEED US $100.00, EXCEPT TO THE EXTENT SUCH LIMITATION IS NOT PERMITTED BY APPLICABLE LAW.
+            YOU EXPRESSLY UNDERSTAND AND AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COMPANY, AND ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS AND LICENSORS, SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SITE, COMPANY SERVICES (INCLUDING Meetup APPLICATIONS), COMPANY MATERIALS, USER CONTENT, INFORMATION AND RESULTS AND OTHER CONTENT AND INFORMATION AVAILABLE THROUGH THE SITE OR COMPANY SERVICES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). IN NO EVENT WILL COMPANY'S (OR ITS AFFILIATES’, OFFICERS’, DIRECTORS’, EMPLOYEES’, AGENTS’ AND LICENSORS’) CUMULATIVE LIABILITY TO YOU EXCEED US $100.00, EXCEPT TO THE EXTENT SUCH LIMITATION IS NOT PERMITTED BY APPLICABLE LAW.
           </p>
           <p>
             Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to You to the extent applicable law so requires.
@@ -238,9 +238,9 @@ export const TOS = () => {
         <Typography variant="body1" gutterBottom>
           <p>You acknowledge, represent and warrant that:</p>
           <ul>
-            <li>(a) You own the computer or device on which You are using the Let's Thango Website on, or have the authority to use the Let's Thango Website on such computer or device</li>
+            <li>(a) You own the computer or device on which You are using the Meetup Website on, or have the authority to use the Meetup Website on such computer or device</li>
             <li>(b) your use of the Company Services will not violate any local, state or federal laws that apply to You</li>
-            <li>(c) Company is not causing the Let's Thango Website to be used on your computer or device, but has provided the Let's Thango Website to You, which You are using of your own volition</li>
+            <li>(c) Company is not causing the Meetup Website to be used on your computer or device, but has provided the Meetup Website to You, which You are using of your own volition</li>
             <li>(d) You have read and fully understand the terms of this Agreement</li>
             <li>(e) You have due authority and adequate legal capacity to enter into this Agreement</li>
             <li>(f) You are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in this Agreement, and to abide by and comply with this TOS; and</li>

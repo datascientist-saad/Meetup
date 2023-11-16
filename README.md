@@ -1,12 +1,12 @@
 
-# Longmeet - Let's Thango 
+# Meetup
 
 A web application that leverages pure WebRTC protocal, Google Firestore as a signaling server, and Chromium Tab sharing protocal to allow screen sharing with audio, which enable the ability for folks to catch up and enjoy music and videos together despite the distance.
 
-  <a href="https://letsthango.web.app" target="_blank">Application</a>   
+  <a href="https://meetup-with-you.web.app/" target="_blank">Application</a>   
 
 # Motivation
-I'm currently in a long distance relationship myself and has been for the past three years. I understand the longing desire to watch and share experiences with your partner, and how most platforms out there are not dedicate to this need, while allowing video conversation simultaneously. I am setting out to solve the problem once and for all, hence the creation of Let's Thango.
+The motivation is to help people network and communicate in an efficient manner.
 
 # Features
 - Sharing screen with audio using Chromium-based browsers.     

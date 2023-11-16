@@ -15,7 +15,7 @@
 }
 
 #inputContainer {
-    width: 25vw;
+    width: 70vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -24,7 +24,7 @@
 
 #inputContainer > * {
     width: 80%;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 #inputContainer label {
@@ -35,19 +35,19 @@
     font-family: 'Dancing Script', cursive;
     font-size: 80px;
     margin-bottom: 30px;
-    color: palevioletred;
+    color: rgb(172, 20, 43);
 }
 
 #createCallBtn, #joinCallBtn {
-    background-color: #AF5A76;
+    background-color: rgb(172, 20, 43);
     font-weight: bold;
 }
 button:disabled {
-    background-color: #E5C9D2 !important;
+    background-color: #d34040 !important;
 }
 
 .MuiInput-underline:after {
-    border-bottom: 2px solid #AF5A76 !important;
+    border-bottom: 2px solid rgb(172, 20, 43) !important;
 }
 
 input, .MuiCheckbox-root  {

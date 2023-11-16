@@ -103,7 +103,7 @@ export const Join = () => {
         <div id='inputContainer'>
 
           <Typography variant="h5" gutterBottom>
-            <i>It takes two to </i><span id='brand'>Thango</span>
+            <span id='brand'>Meetup</span>
           </Typography>
           <br />
 
@@ -114,16 +114,16 @@ export const Join = () => {
           <Button id='joinCallBtn' variant='contained' color='secondary' onClick={handleJoinCall} disabled={callID.length === 0}>Join Call</Button>
 
           <br />
-          <Link to={ROUTES.HOW_TO}>How it works?</Link>
+          {/* <Link to={ROUTES.HOW_TO}>How it works?</Link>
           <Link to={ROUTES.TOS}>Terms of Service</Link>
           <br />
           <a rel='noreferrer' target='_blank' href={ROUTES.BUY_ME_TEA}>Buy me a cup of tea!</a>
           <a rel='noreferrer' target='_blank' href={ROUTES.PATREON}>Support the project on Patreon!</a>
-          <a rel='noreferrer' target='_blank' href={ROUTES.GIT}>Check me out on Github!</a>
+          <a rel='noreferrer' target='_blank' href={ROUTES.GIT}>Check me out on Github!</a> */}
         </div>
-        <div id='logoContainer'>
+        {/* <div id='logoContainer'>
           <img src={logo.current} alt='logo'/>
-        </div>
+        </div> */}
       </div>
 
       <CustomizedAlert duration={5000} openAlert={openAlert} setOpenAlert={setOpenAlert} alertMessage={alertMessage} alertType={alertType}/>
